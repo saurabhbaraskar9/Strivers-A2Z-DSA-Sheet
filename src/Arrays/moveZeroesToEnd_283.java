@@ -14,6 +14,7 @@ public class moveZeroesToEnd_283 {
         }
         while(count<nums.length){
             nums[count++]=0;
+
         }
     }
 }
